@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = "pypb",
-    version = "0.1.0",
+    name = "pypb-br",
+    version = "0.1.1",
     author = "Kaden Eichelberger",
     author_email = "kadeneichelberger@gmail.com",
     description = "Python Para Brasileiros - Uma linguagem educacional",

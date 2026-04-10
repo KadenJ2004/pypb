@@ -1,4 +1,5 @@
 # 🇧🇷 PyPB (Python Para Brasileiros)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **PyPB** é uma linguagem educacional construída sobre o Python, projetada para ensinar a lógica de programação usando o vocabulário natural do Português. 
 
@@ -14,7 +15,7 @@ Aprender a programar já é difícil o suficiente sem ter que traduzir comandos 
 Você pode instalar o PyPB diretamente pelo terminal usando o gerenciador de pacotes do Python (`pip`). Abra o seu terminal e digite:
 
 ```bash
-pip install pypb
+pip install pypb-br
 ```
 
 ---
@@ -189,4 +190,4 @@ Existem várias formas de participar:
 Se você quiser conversar sobre o projeto, dar um feedback de como está usando o PyPB, ou se precisar de ajuda, pode entrar em contato diretamente comigo:
 
 * **Email:** kadeneichelberger@gmail.com
-* **GitHub:** [KadenJ2004](https://github.com/KadenJ2004I)
+* **GitHub:** [KadenJ2004](https://github.com/KadenJ2004)
