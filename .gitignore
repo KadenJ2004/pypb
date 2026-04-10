@@ -1,0 +1,20 @@
+# Meus arquivos de teste
+teste.pypb
+*teste*.py
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Pastas de "Build" (criadas ao publicar no PyPI)
+build/
+dist/
+*.egg-info/
+
+# Ambientes Virtuais (se você usar um)
+venv/
+env/
+.env
+
+# Pastas do VS Code
+.vscode/
